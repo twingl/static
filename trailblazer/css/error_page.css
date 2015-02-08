@@ -49,6 +49,8 @@ p {
 
 #limerick .author {
   margin-top: 18px;
+  font-size: 18px;
+  margin-left: 1em;
 }
 
 .footer {
